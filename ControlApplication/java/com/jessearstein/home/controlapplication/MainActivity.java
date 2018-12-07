@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.d(TAG, "run: ConnectThread: Could not connect to UUID: " + MY_UUID_INSECURE);
             }
 
-            //will talk about this in the 3rd video
+            
             connected(mmSocket);
         }
 
