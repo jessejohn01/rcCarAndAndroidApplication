@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ControlApplication</string>
+    <string name="motor_power">Motor Power</string>
+    <string name="steering_direction">Steering Direction</string>
+</resources>
